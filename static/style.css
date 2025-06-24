@@ -80,7 +80,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: url('../images/banner.png') no-repeat center top;
+    background: url('/images/banner.png') no-repeat center top;
     background-size: cover;
     text-align: center;
     padding-top: 150px;
